@@ -1,4 +1,4 @@
-from Equipo import Equipo
+from equipos import Equipo
 import csv
 import numpy as np
 
